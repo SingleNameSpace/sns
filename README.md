@@ -39,39 +39,44 @@ Visit the [SNS Wiki](https://github.com/SingleNameSpace/sns/wiki/Presentations-a
 
 ## 🤝 Collaborating for Success
 
-Guardant Health is partnering and collaborating with the following innovators to develop open standards, APIs, and file system interoperability through the **Single Namespace Working Group**.
+Guardant Health is partnering and collaborating alongside the following innovators to develop open standards, APIs, and file system interoperability through the **Single Namespace Working Group**.
 
 ### Technology Companies (Hardware and Infrastructure)
-- **IBM**: Provides integrated solutions leveraging cloud computing, AI, storage, and IT infrastructure solutions.
-- **DDN**: High-performance data storage and management solutions for unstructured data, including AI, HPC, and enterprise applications.
-- **Seagate**: Specializes in data storage hardware, including hard drives and advanced storage solutions.
-- **NetApp**: Delivers data storage and management solutions, integrating cloud and on-premises environments.
+- **IBM**
+- **DDN**
+- **Hammerspace**
+- **Seagate**
+- **NetApp**
+- **Weka**
+- **Lumen**
 
 ### High-Performance Computing (HPC) and Research
-- **Los Alamos National Laboratory**: Multidisciplinary research institution focused on national security and advanced science.
-- **NERSC**: High-performance computing center supporting scientific research for the Department of Energy.
-- **Cambridge Computer**: Data storage, backup, and HPC solutions provider for research and enterprise environments.
+- **Los Alamos National Laboratory (LANL)**
+- **Lawrence Livermore National Laboratory (LLNL)**
+- **Lawrence Berkeley National Laboratory (LBNL/NERSC)**
+
+### Cloud Service Provider
+- **Google**
 
 ### Cloud and Data Solutions
-- **Converge Technology Solutions**: Hybrid IT solutions provider offering cloud, analytics, and cybersecurity services.
-- **Evotek**: Cloud, cybersecurity, and data center technology solutions.
-- **Rafay**: Kubernetes management platform for deploying and operating modern applications across hybrid and public clouds.
-- **Re-Store**: Big data and web-scale HPC solutions for data management and storage.
-- **Hammerspace**: Global data orchestration enabling seamless access and management across hybrid and multi-cloud environments.
+- **Converge Technology Solutions**
+- **Sycomp**
+- **Cambridge Computer**
+- **Evotek**
+- **Loophole Labs**
+- **Re-Store**
+
+### Kubernetes
+- **Rafay**
 
 ### Software and AI
-- **Nvidia**: Leader in GPUs for AI, machine learning, and visual computing applications.
-- **Google**: Offers a broad range of services, including cloud computing, AI platforms, and internet-related products.
+- **Nvidia**
+- **Starfish (FS)**
 
 ### Life Sciences and Biotechnology
-- **Genentech**: Biopharmaceutical company focused on developing medicines for serious medical conditions.
-
-### Development Tools and Data Management
-- **Loophole Labs**: Develops secure frameworks and tools for efficient software development.
-- **Weka**: High-performance scalable file system optimized for AI and HPC workloads.
-- **Starfish (FS)**: Data management solutions for large-scale file systems, offering insight and control.
+- **Genentech**
 
 ### Academic Institutions
-- **University of Queensland**: Renowned for its academic excellence and contributions to research in science, technology, medicine, and engineering.
+- **University of Queensland**
 
 ---
