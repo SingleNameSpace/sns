@@ -1,47 +1,33 @@
 # Single Name Space (SNS) 🌐
 
-Transforming Cancer Care with Data and Technology  
-At **Guardant Health**, our mission is to conquer cancer with data. We blend precision oncology and preventive screening to empower patients and physicians at all stages of cancer care. Our solutions enable life-saving decisions through cutting-edge diagnostics and data-driven insights.
+---
+
+# 🌟 The Challenge: Scaling for the Future
+
+Traditional storage solutions struggle to keep up with modern demands:
+- 🚀 Rapid, consistent data access across multiple sites.
+- 📦 Long-term, cost-effective storage solutions.
+- 🤖 High-performance requirements for machine learning and analytics applications.
 
 ---
 
-## 🌟 The Challenge: Scaling for the Future
+## 💡 Project Highlight: Single Name Space (SNS)
 
-With over **600,000 patients today** and projections of **5 million annually**, our data needs are skyrocketing. From **8 petabytes in 2018** to a projected **21 exabytes in 30 years**, scaling our data infrastructure is vital. Traditional storage solutions cannot keep pace with the demand for:
-- Rapid data access across multiple sites
-- Long-term sustainable storage
-- Machine learning applications requiring fast data access
-
----
-
-## 💡 Our Solution: Single Name Space (SNS)
-
-**Single Name Space (SNS)** leverages **cloud object storage (S3)** to revolutionize data access and management. It provides:
+The **Single Name Space (SNS)** project reimagines data storage and access by leveraging **cloud object storage (S3)** to overcome these challenges.
 
 ### Key Benefits
-- **Unified Access**: Seamless access to the same data across all sites and clusters, whether on-premises or in the cloud.
-- **Efficient Synchronization**: Automated metadata updates across clusters, reducing network congestion and preventing duplicates.
-- **Scalability**: Support for petabyte-scale storage and beyond with cost-efficient cloud integrations.
-- **Speed**: Syncs changes across clusters in seconds, enabling real-time collaboration and research.
+- 🌍 **Unified Access**: Enables effortless access to the same data across all sites and clusters, whether on-premises or in the cloud.
+- 🔄 **Efficient Synchronization**: Automates metadata updates across clusters to reduce network congestion and prevent duplication.
+- 📈 **Scalability**: Supports petabyte-scale storage with cost-effective cloud integrations.
+- ⚡ **Speed**: Synchronizes changes across clusters in seconds, fostering real-time global collaboration.
 
 ---
 
 ## 🔑 Key Features
-- 🚀 **Local caching** for faster data access.
-- 🔒 **Read/Write and Read-Only modes** for optimized workflows.
-- 🌐 **Disaster resilience** with automated recovery and data consistency.
-- 📊 **Parallel data movement** for enhanced performance.
-
----
-
-## 🎯 Why It Matters
-
-With SNS, Guardant Health enables:
-
-- **Scalable Precision Oncology**: Empowering researchers and clinicians with instant access to vital data.
-- **Data-Driven Discoveries**: Supporting machine learning and AI innovations with high-performance storage.
-- **Cost-Effective Expansion**: Leveraging cloud-native technologies to minimize infrastructure overhead.
-- **Long-Term Sustainability**: Managing decades of patient data responsibly and efficiently.
+- 🚀 **Local Caching**: Accelerates data access by caching metadata locally and only pulling data when accessed.
+- 🔒 **Access Modes**: Offers Independent Read/Write, Write once read many, and Read-Only modes for optimized workflows.
+- 🌐 **Disaster Resilience**: Ensures robust operations with automated recovery and data consistency across sites.
+- 📊 **Parallel Data Movement**: Boosts performance and ensures high availability of critical data.
 
 ---
 
@@ -53,7 +39,7 @@ Visit the [SNS Wiki](https://github.com/SingleNameSpace/sns/wiki/Presentations-a
 
 ## 🤝 Collaborating for Success
 
-Guardant Health partners with leading technology innovators to develop open standards, APIs, and file system interoperability through the **Single Namespace Working Group**.
+Guardant Health is partnering and collaborating with the following innovators to develop open standards, APIs, and file system interoperability through the **Single Namespace Working Group**.
 
 ### Technology Companies (Hardware and Infrastructure)
 - **IBM**: Provides integrated solutions leveraging cloud computing, AI, storage, and IT infrastructure solutions.
