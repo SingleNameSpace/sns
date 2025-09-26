@@ -49,6 +49,7 @@ Guardant Health is partnering and collaborating alongside the following innovato
 - **NetApp**
 - **Weka**
 - **Lumen**
+- **Zadara**
 
 ### High-Performance Computing (HPC) and Research
 - **Los Alamos National Laboratory (LANL)**
